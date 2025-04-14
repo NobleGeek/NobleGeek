@@ -1,7 +1,7 @@
 
 ## 👋 About Me 
 
-Hey there! I'm Adarsh Mishra, a passionate developer, currently diving deep into Backend Development. I enjoy building scalable web apps, exploring system design concepts, and automating anything I can.
+Hey there! I'm Adarsh Mishra, a passionate developer, currently diving deep into Backend Development. I enjoy building scalable web apps, exploring system design concepts.
 
 - 🚀 I love turning ideas into code
 - 🔧 Currently focused on backend stacks, APIs, and DevOps fundamentals
